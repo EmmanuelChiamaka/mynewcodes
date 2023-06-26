@@ -1,0 +1,32 @@
+/*{
+    margin: 0;
+    padding: 0;
+}*/
+.container{
+    display: flex;
+    align-items: left;
+}
+.myp{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 50px;
+   
+    
+}
+.anna-details{
+    margin-top: 50px;
+    margin-right: 20px;
+}
+h1{
+    color: #000;
+}
+p{
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+.second-b{
+    margin-left: 10px;
+    margin-top: 10px;
+}
